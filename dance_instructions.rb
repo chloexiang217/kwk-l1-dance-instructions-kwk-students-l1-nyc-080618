@@ -35,4 +35,5 @@ def skip_step(starting_foot)
     puts "Do this 7 more times!"
  end
   
-  
+  def lasso
+    puts ""
