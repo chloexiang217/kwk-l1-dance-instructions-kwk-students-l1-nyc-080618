@@ -19,8 +19,8 @@ end
 def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
-  # finish step three
-end
+  ski_step("left foot")
+  end
 
 def skip_step(starting_foot)
   puts "Lower #{starting_foot} foot to the ground"
