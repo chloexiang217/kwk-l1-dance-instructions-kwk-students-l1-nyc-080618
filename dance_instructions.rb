@@ -13,5 +13,5 @@
 # dance_instructions
 
 def starting_stance
-  
+  puts ""
 end
