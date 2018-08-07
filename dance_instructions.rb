@@ -12,3 +12,6 @@
 
 # dance_instructions
 
+def starting_stance
+  
+end
