@@ -17,9 +17,9 @@ def starting_stance
 end
 
 def base_footwork
-  puts "Lift right foot"
-  puts "Return right foot to the ground"
-  ski_step("left foot")
+  puts "Lift #{starting_foot} foot"
+  puts "Return #{starting_foot} foot to the ground"
+  skip_step("left foot")
   end
 
 def skip_step(starting_foot)
