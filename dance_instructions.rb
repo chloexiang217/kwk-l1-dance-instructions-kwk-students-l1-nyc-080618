@@ -27,3 +27,5 @@ def skip_step(starting_foot)
   puts "Bounce #{starting_foot} foot back up slightly, kicking it a few inches back"
   puts "Briefly raise the opposite foot, then the #{starting_foot} twice more!"
   end
+  
+  
