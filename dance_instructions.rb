@@ -22,4 +22,6 @@ def base_footwork
   # finish step three
 end
 
-def 
+def skip_step(starting_foot)
+  puts ""
+end
